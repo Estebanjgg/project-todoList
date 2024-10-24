@@ -1,0 +1,13 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="add_task">Agregar Tarea</string>
+    <string name="task_title">Título de la Tarea</string>
+    <string name="save">Guardar</string>
+    <string name="error_empty_title">El título no puede estar vacío</string>
+    <string-array name="priority_levels">
+        <item>Alta</item>
+        <item>Media</item>
+        <item>Baja</item>
+    </string-array>
+</resources>
